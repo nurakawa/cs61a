@@ -1,0 +1,7 @@
+.venv
+ok
+*.ok
+construct_check.py
+__pycache__
+guides
+.git
